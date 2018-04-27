@@ -1,0 +1,6 @@
+localhost:
+    url:
+        order: http://192.168.0.107
+        merchant: http://192.168.0.7:18086
+        member: http://192.168.0.7:18085
+        account: http://192.168.0.7:18080
